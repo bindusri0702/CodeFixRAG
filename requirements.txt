@@ -1,0 +1,6 @@
+1. langchain-community
+2. tiktoken
+3. langchain
+4. sentence-transformers
+5. chromadb
+6. groq
